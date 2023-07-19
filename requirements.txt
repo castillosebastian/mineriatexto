@@ -16,3 +16,5 @@ mlflow
 pyyaml
 tiktoken
 transformers
+faiss-cpu
+datasets
