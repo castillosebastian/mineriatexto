@@ -18,3 +18,5 @@ tiktoken
 transformers
 faiss-cpu
 datasets
+retro-pytorch
+sacremoses
